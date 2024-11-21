@@ -14,3 +14,5 @@ This node depends on usb_cam.
 - Launch rqt image viewer
   - `rosrun rqt_image_view rqt_image_view`
 - To view in web_ui, add camera with topic `/capra_thermal_cam/image_raw`.
+
+## Example (PureThermal 1 / FLIR Lepton 2.5)

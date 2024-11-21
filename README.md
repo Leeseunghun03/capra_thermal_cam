@@ -16,3 +16,5 @@ This node depends on usb_cam.
 - To view in web_ui, add camera with topic `/capra_thermal_cam/image_raw`.
 
 ## Example (PureThermal 1 / FLIR Lepton 2.5)
+
+![image](https://github.com/user-attachments/assets/29d3ee49-e4fb-41ab-a30d-2814ca77f01b)
